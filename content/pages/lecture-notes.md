@@ -76,7 +76,7 @@ Protein Refolding
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Solid-Liquid Separation: Filtration (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_7_cooney))
+Solid-Liquid Separation: Filtration ([PDF]({{< baseurl >}}/resources/lecture_7_cooney))
 {{< tdclose >}}
 
 {{< trclose >}}
