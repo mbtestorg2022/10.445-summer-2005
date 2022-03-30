@@ -5,6 +5,7 @@ description: This resource is problem set 5 and contains 2 problem sets on count
   that attaches to polyethylene glycol (PEG)
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-445-separation-processes-for-biochemical-products-summer-2005/55e8ee67b4e1fbc7bbc2024be0c6297a_ps_5.pdf
 file_type: application/pdf
+parent_uid: 6147f7fe-0578-fe4e-46df-165de0318304
 resourcetype: Document
 title: ps_5.pdf
 uid: 55e8ee67-b4e1-fbc7-bbc2-024be0c6297a

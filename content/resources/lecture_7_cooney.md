@@ -7,6 +7,7 @@ description: This resource provides information about the topics such as membran
   model for membrane filtration and cell harvesting.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-445-separation-processes-for-biochemical-products-summer-2005/45a0af3544f9066f4b4abe64b1beeabd_lecture_7_cooney.pdf
 file_type: application/pdf
+parent_uid: 965cab75-eea2-aa58-bfc5-c29aa08a43d3
 resourcetype: Document
 title: lecture_7_cooney.pdf
 uid: 45a0af35-44f9-066f-4b4a-be64b1beeabd

@@ -6,6 +6,7 @@ description: This resource provides information about the topics such as methods
   non-mechanical methods.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-445-separation-processes-for-biochemical-products-summer-2005/9f4a99c6be0c5cf3e21995ca0e2c5180_lecture_3.pdf
 file_type: application/pdf
+parent_uid: 965cab75-eea2-aa58-bfc5-c29aa08a43d3
 resourcetype: Document
 title: lecture_3.pdf
 uid: 9f4a99c6-be0c-5cf3-e219-95ca0e2c5180
